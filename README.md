@@ -7,7 +7,7 @@ It allows users to create projects, add tasks to projects, and delete projects a
 To get started, clone the repository and install the dependencies:
 
 ```
-git clone https://github.com/your-username/to-do-list-app
+git clone https://github.com/Khaldoun-Amatoury/Project-Management-Website-React.git
 cd project-management-app
 npm install
 ```
